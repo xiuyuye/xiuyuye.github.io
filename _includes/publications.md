@@ -3,7 +3,7 @@
 <div class="publications">
 <ol class="bibliography">
 
-<!-- <li>
+<li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">&#8226;<a href="https://www.cs.purdue.edu/homes/hmaji/papers/HMSY26.pdf"> Local Leakage Resilience of Multiplication-friendly Shamir Secret Sharing</a></div>
@@ -19,7 +19,7 @@
     </div> 
   </div>
 </div>
-</li> -->
+</li>
 
 <li>
 <div class="pub-row">
