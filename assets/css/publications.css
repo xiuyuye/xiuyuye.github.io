@@ -84,7 +84,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 /* Reduce spacing within and between publication entries. */
 .publications ol.bibliography li {
   min-height: 0;
-  margin-bottom: 0.65rem;
+  margin-bottom: 0.7rem;
   line-height: 1.4;
 }
 

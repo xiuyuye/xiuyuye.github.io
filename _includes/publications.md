@@ -33,9 +33,9 @@
     <strong>Xiuyu Ye</strong>,
     </div>
     <div class="periodical"><em> Draft </em></div>
-    <div class="links">
+    <!-- <div class="links">
       <a href="https://arxiv.org/pdf/2609.08056" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div> 
+    </div>  -->
   </div>
 </div>
 </li>
@@ -54,9 +54,9 @@
     <strong>Xiuyu Ye</strong>,
     </div>
     <div class="periodical"><em> Draft </em></div>
-    <div class="links">
+    <!-- <div class="links">
       <a href="https://www.cs.purdue.edu/homes/hmaji/papers/BHMSY26b.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div> 
+    </div>  -->
   </div>
 </div>
 </li>
@@ -72,9 +72,9 @@
     <strong>Xiuyu Ye</strong>,
     </div>
     <div class="periodical"><em> ITC 2026 </em></div>
-    <div class="links">
+    <!-- <div class="links">
       <a href="https://www.cs.purdue.edu/homes/hmaji/papers/BHMY25.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div> 
+    </div>  -->
   </div>
 </div>
 </li>
@@ -96,7 +96,7 @@
     </div>
     <div class="periodical"><em> ITC 2025.</em></div>
     <div class="links">
-      <a href="assets/files/HMNY25.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="assets/files/HMNY25.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
       <!-- <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
       <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
       <!-- <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
@@ -121,11 +121,7 @@
     </div>
     <div class="periodical"><em> Eurocrypt 2024.</em></div>
     <div class="links">
-      <a href="assets/files/MNPY23b.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <!-- <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
-      <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
-      <!-- <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
-      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong>  -->
+      <!-- <a href="assets/files/MNPY23b.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
     </div> 
   </div>
 </div>
@@ -153,11 +149,7 @@ Bounded-size Leakage Family</a></div>
     </div>
     <div class="periodical"><em> TCC 2022.</em></div>
     <div class="links">
-      <a href="assets/files/MNPSWYY22.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <!-- <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
-      <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
-      <!-- <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
-      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong>  -->
+      <!-- <a href="assets/files/MNPSWYY22.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
     </div> 
   </div>
 </div>
@@ -178,19 +170,12 @@ Bounded-size Leakage Family</a></div>
     </div>
     <div class="periodical"><em> ITC 2022.</em></div>
     <div class="links">
-      <a href="assets/files/ITC_MNPSWYY22.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <!-- <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
-      <!-- <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a> -->
-      <!-- <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
-      <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong>  -->
+      <!-- <a href="assets/files/ITC_MNPSWYY22.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
     </div> 
   </div>
 </div>
 </li>
 
-
-  
-<!-- <br> -->
 
 </ol>
 </div>
