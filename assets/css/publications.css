@@ -103,3 +103,9 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
   display: inline-block;
   vertical-align: baseline;
 }
+
+.publications ol.bibliography li {
+  min-height: 0;
+  margin-bottom: 0.5rem;
+  line-height: 1.3;
+}
