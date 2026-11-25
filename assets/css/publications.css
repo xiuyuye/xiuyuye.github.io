@@ -80,3 +80,26 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publications ol.bibliography li div.abstract.hidden.open { border-color: var(--global-text-color); }
 
 .publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }
+
+/* Reduce spacing within and between publication entries. */
+.publications ol.bibliography li {
+  min-height: 0;
+  margin-bottom: 0.65rem;
+  line-height: 1.4;
+}
+
+/* Put the conference name and PDF button on the same line. */
+.publications ol.bibliography li .periodical,
+.publications ol.bibliography li .links {
+  display: inline;
+}
+
+/* Leave a small gap before the PDF button. */
+.publications ol.bibliography li .links {
+  margin-left: 0.3rem;
+}
+
+.publications ol.bibliography li .links a.btn {
+  display: inline-block;
+  vertical-align: baseline;
+}
