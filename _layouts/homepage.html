@@ -84,6 +84,11 @@
 
       </header>
       <section>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
+        <a href="{{ '/notes.html' | relative_url }}"{% if page.url == '/notes.html' %} aria-current="page"{% endif %}>Notes</a>
+        <a href="{{ site.cv_link | relative_url }}">CV</a>
+      </nav>
 
       {{ content }}
 
